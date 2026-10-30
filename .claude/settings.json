@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/d/tools/wolvenkit-console-9.1.0/WolvenKit.CLI.exe *)",
+      "PowerShell(D:\\tools\\wolvenkit-console-9.1.0\\WolvenKit.CLI.exe *)"
+    ]
+  }
+}
